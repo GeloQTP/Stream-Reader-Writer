@@ -1,4 +1,4 @@
-﻿internal class Program // 1.0 - variable changes
+﻿internal class Program // 1.1 - variable changes
 {
     public static void Main()
     {
